@@ -1,2 +1,2 @@
-# Taller-de-productividad-basada-en-herramientas-tecnol-gicas
+# Taller de productividad basada en herramientas tecnologicas
 Fase 3 - Taller de productividad basada en herramientas tecnologicas
