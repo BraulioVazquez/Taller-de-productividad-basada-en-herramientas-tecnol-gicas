@@ -77,7 +77,7 @@
 - Obtener la version mas actual de java
 
 **Base de datos**
-- La base de datos que se utilizara 
+- En este software no se utiliza una base de datos como tal, ya que se importaran las hojas de excel en donde tienen toda la informacion y el software las leera y con eso se cargara y se visualizara de forma ordenenada la informacion para poder trabajar con ella
 
 ## Instalacion
  - Descargar el proyecto del repositorio
