@@ -87,8 +87,8 @@
  - Iniciamos el ejecutable 
 
 
-## Configuracion:
-
+## Configuracion
+- Instalamos la version e 
 
 
 ## Uso 
