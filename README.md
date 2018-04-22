@@ -84,15 +84,29 @@
  - Descomprimir el archivo para obtener la carpeta del proyecto
  - Abrimos la carpeta del proyecto 
  - Abrimos la carpeta de bin en la cual encontraremos el archivo .jar
- - Iniciamos el ejecutable 
+ - Iniciamos el ejecutable
+ 
+ Como es un .jar el software no se instala, solo se ejecuta en el ambiente de JAVA por eso es importante que tengamos la ultima version de java instalada en nuestro equipo
 
 
 ## Configuracion
-- Instalamos la version e 
-
+- Instalamos la version mas actual de java ya que sin ella no pdoremos correr el software
+- Configuracion del ambiente JAVA
+- Obtenemos la plantilla de excele para que podamos pasar la informacion que necesitamos
+- configuramos nuestta base de datos en la plantlla de excel del software y la cargamos
 
 ## Uso 
   El software será para uso interno del departamento de corrosión con niveles de usuario con lo que cada uno va tener permiso de acuerdo con sus responsabilidades, se instalará en cada unos de los equipos de los miembros de corrosión para que pueda hacer uso del mismo.
+  
+  El usuario administrado, tendra una cuenta diferete con al cual tendra acceso a poder hacer modificaciones y todos los cambios necesarios.
+
+## Contribucion
+   - Abrimos el repositorio 
+   - Link del repositorio (https://github.com/BraulioVazquez/Taller-de-productividad-basada-en-herramientas-tecnol-gicas)
+   - En el branch "master" podemos encontrar la version mas actual del software y la mas completa y estable
+   - Del lado derecho tenemos la opcion de clone or download
+   - Tenemos dos opciones a elegir (abrir en el equipo o descargar como zip)
+   - Cualquiera de las 2 opciones nos puede servir
 
 ## Roadmap
   Con forme se vay implementeando la aplicacion dentro de la empresa y con la experiencia de los usuarios del area de corrosion, podremos identificar errores y con eso ellos nos podran notificar y decir que es lo que podemos mejorar en el software.
